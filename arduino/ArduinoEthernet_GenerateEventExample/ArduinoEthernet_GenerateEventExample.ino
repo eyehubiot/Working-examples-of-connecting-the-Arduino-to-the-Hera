@@ -1,4 +1,4 @@
-// Simple example to retrieve a list of events for the Device
+// Simple example to retrieve a list of events for a Device
 // given in DEVICE_ID and output the returned content to the serial port
 
 #include <SPI.h>
